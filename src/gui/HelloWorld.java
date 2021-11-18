@@ -1,5 +1,7 @@
 package gui;
 
+/* Este é um bloco de comentário novo */
+
 import javax.swing.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
